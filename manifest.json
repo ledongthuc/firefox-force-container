@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Firefox Container Selector",
+  "name": "Container Forcer",
   "version": "1.0",
-  "description": "Forces container selection for new tabs",
+  "description": "Forces container selection for new tabs. We don't want to use the default container. It's the rule. It's the law.",
   "icons": {
     "16": "icons/icon.svg",
     "32": "icons/icon.svg",
